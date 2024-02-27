@@ -1,0 +1,8 @@
+a = str(input("ENTER YOUR NAME:"))
+b = int(input("ENTER YOUR ADMISSION NO.:"))
+c = str(input("ENTER YOUR COURSE NAME:"))
+d = int(input("ENTER YOUR MOBILE NO.:"))
+print("\nSTUDENT NAME:\t",a)
+print("ADMISSION NO:\t",b)
+print("COURSE NAME:\t",c)
+print("MOBILE NO:\t",d)
